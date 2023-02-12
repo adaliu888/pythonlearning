@@ -1,5 +1,6 @@
-import mod1
-mod1.foo()
+def foo():
+    print("[mod2] foo()")
 
-if __name__ == '__main__':
-    print(mod1.foo())
+
+class AX:
+    pass

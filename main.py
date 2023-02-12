@@ -1,9 +1,9 @@
-from .baselearn import mod1
-mod1.foo()
-
-
 def hello():
-    print("hello")
+    print("Hello")
+
+
+class Hello:
+    pass
 
 
 if __name__ == "__main__":
