@@ -8,4 +8,3 @@ def hello():
 
 if __name__ == "__main__":
     hello()
-    mod1.Foo

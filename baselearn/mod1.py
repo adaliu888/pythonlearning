@@ -4,3 +4,7 @@ def foo():
 
 class Foo:
     pass
+
+
+if __name__ == '__main__':
+    foo()
