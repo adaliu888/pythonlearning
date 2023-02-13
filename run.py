@@ -15,5 +15,6 @@ if __name__ == "__main__":
     #    print(sys.path)
     from baselearn.baseopt import mod
     x = mod.foo(['quux', 'corge', 'grault'])
+    print(mod.__file__)
     print(x)
     hello()
