@@ -5,6 +5,7 @@ def fun1(str):
 
 fun1("aaa")
 fun1("wo yao dayin !")
+print(type(fun1))
 
 # 函数结构
 
@@ -28,6 +29,9 @@ def bj(a, b):
         # print(id(b))
     if a == b:
         pass
+
+
+print(type(bj))
 
 
 def a1(a):

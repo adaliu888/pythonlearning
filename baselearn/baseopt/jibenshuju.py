@@ -1,4 +1,9 @@
 counter = 100  # inter型
+print(type(counter))
+print(id(counter))
+counter = counter + 1
+print(type(counter))
+print(id(counter))
 
 miles = 1000.0  # float型
 
