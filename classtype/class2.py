@@ -5,4 +5,4 @@ class Myclass2():
 
 x = Myclass2()
 
-print(x.data) # self 变量type指向自己
+print(x.data)  # self 变量type指向自己
